@@ -305,3 +305,6 @@ HW1/*
 
 *.zip
 archive/*
+/archive
+
+*.pkl
