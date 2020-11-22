@@ -302,6 +302,8 @@ ipython_config.py
 
 data/*
 HW1/*
+models/*
+my_logs/*
 
 *.zip
 archive/*
